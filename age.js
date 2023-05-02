@@ -1,0 +1,1 @@
+console.log("i am 23 year old and i am currently studying in masai");
